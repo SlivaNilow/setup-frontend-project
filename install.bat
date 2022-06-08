@@ -40,5 +40,6 @@ cd ../../dist
 mkdir img
 mkdir fonts
 copy NUL index.php
-
+cd ../
+phpstorm64 .
 pause
